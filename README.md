@@ -6,7 +6,7 @@
 
 <div>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuefl&show_icons=false&theme=dark) 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josuefl&show_icons=false&theme=vue-dark) 
   
 </div>
 
