@@ -1,7 +1,7 @@
 ### Olá! Sou o Josué Fernando
 
 - Atualmente trabalho com Design
-- Estudando HTML e CSS
+- Estudando Front-end
 - Pronouns: ele/dele
 
 <div>
